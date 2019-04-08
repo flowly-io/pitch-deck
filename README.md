@@ -4,7 +4,7 @@
 
 This was developed during [Hackamon 2019](https://monash.edu/students/hackamon).
 
-You can also view our Pitch Deck [here](https://github.com/hackamon2019/pitch-deck/pitch.pdf)
+You can also view our Pitch Deck [here](https://github.com/hackamon2019/pitch-deck/blob/master/pitch.pdf)
 
 ## Stack
 
